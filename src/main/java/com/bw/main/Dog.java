@@ -5,5 +5,6 @@ public class Dog {
 		System.out.println("主代码的小狗");
 		System.out.println("xiu gai yi ci");
 		
+		
 	}
 }
